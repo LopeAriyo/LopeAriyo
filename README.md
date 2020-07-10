@@ -7,7 +7,7 @@
 
 <h1 align="center" >Welcome to My Github 👋🏾</h1>
 
-<section align="center">
+<div align="center">
 
 <a href="https://twitter.com/lopeariyodev">
     <img alt="Twitter Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/twitter-512.png" width="50" />
@@ -16,7 +16,7 @@
     <img alt="LinkedIn Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/linkedin-512.png" width="50" />
   </a>
 
-</section>
+</div>
 
 <p> I'm a fullstack developer, though I mainly lean towards frontend development! I'm based in London, UK!</p>
 
