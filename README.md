@@ -1,17 +1,24 @@
 <p align="center">
   <a href="https://www.lopeariyo.dev/ ">
-    <img alt="Lope Logo" src="https://pbs.twimg.com/profile_images/1248697046883762176/A80erP3V_400x400.png" width="120" />
+    <img alt="Lope Logo" src="https://pbs.twimg.com/profile_images/1248697046883762176/A80erP3V_400x400.png" width="250" />
   </a>
+
 </p>
 
-<br>
+<h1 align="center" >Welcome to My Github 👋🏾</h1>
 
-### Hi, Welcome to My Github 👋🏾
+<section align="center">
 
-Website | Twitter | LinkedIn | Dev
-I'm a fullstack developer, though I mainly lean towards frontend development! I'm based in London, UK!
+<a href="https://twitter.com/lopeariyodev">
+    <img alt="Twitter Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/twitter-512.png" width="50" />
+  </a>
+    <a href="https://www.linkedin.com/in/lopeariyo/">
+    <img alt="LinkedIn Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/linkedin-512.png" width="50" />
+  </a>
 
-## Let's connect!
+</section>
+
+<p> I'm a fullstack developer, though I mainly lean towards frontend development! I'm based in London, UK!</p>
 
 <!--
 **LopeAriyo/LopeAriyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
