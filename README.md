@@ -6,14 +6,20 @@
 </p>
 <p align="center"> She/Her</p>
 
-<h1 align="center" style="color: #1EA598">Welcome to My Github </h1>
+<h1 align="center">Welcome to my Github </h1>
 
 <p>  I've been coding a little over 9 months now. I graduated from the Flatiron Bootcamp in London and I'm now a fullstack web developer, though I mainly lean towards frontend development! I also have a  Mathematics BSc from Loughborough University. I'm interested in making the web accessible and like learning new technologies. Working on trying to find a balance between perfectionism and pragmatism.</p>
 
 <p> Fun Fact: I'm also a cookbook author and recipe developer. My debut cookbook <a href="https://smarturl.it/hibiscus"> 'Hibiscus'</a> was published in 2017 by Harper Collins</p>
 
+<div align="center" >
+<img alt="Lope Ariyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopeAriyo&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" >
+</div>
+
 <h2 style =fontweight="bold">#DevLife💻</h2>
-<h3>Web Technologies </h3>
+<details>
+
+<summary>Web Technologies </summary>
 
 <ul>
  <li> HTML5 </li>
@@ -28,19 +34,15 @@
  <li> MongoDB</li>
  <li> Strapi CMS</li>
 </ul>
-
-<h3> Current </h3>
+</details>
+<details>
+<summary> Current</summary>
 <ul>
   <li> I’m currently learning about accessibility & SEO practices </li>   
   <li>I'm currently working on creating a food blog template, going back to basics with HTML, CSS & Javascript </li>
 
 </ul>
-
-<h3>Stats</h3>
-
-![Lope Ariyo's Github Stats](https://github-readme-stats.vercel.app/api?username=LopeAriyo&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4)
-
-<hr>
+</details>
 
 <h4 align="center" >Let's Connect </h4>
 <p align="center"> I love connecting with different people so if you want to talk, here's where you can reach me: </p>
