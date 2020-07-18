@@ -18,6 +18,7 @@
 
 <h2 align="center">#DevLife💻</h2>
 
+<ul>
 <details>
     <summary>Languages</summary>
     <ul>
@@ -38,17 +39,29 @@
         </details>
         <details>
             <summary>Learning</summary>
+           <div >
+          <p> I'm currently working on better understand the languages I already know.<p>
+           </div>
         </details>
         <details>
             <summary>Want To Learn</summary>
+             <div align="center">
+                <img alt="Tailwind Badge" src="https://img.shields.io/badge/tailwind-%23030e27.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white">
+                <img alt="Materialize Badge" src="https://img.shields.io/badge/materialize-%23030e27.svg?&style=for-the-badge&logo=materializecss&logoColor=white">
+                <img alt="Bootstrap Badge" src="https://img.shields.io/badge/bootstrap-%23030e27.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
+                <img alt="React Native Badge" src="https://img.shields.io/badge/reactnative-%23030e27.svg?&style=for-the-badge&logo=reactnative&logoColor=white">
+                <img alt="Flutter Badge" src="https://img.shields.io/badge/flutter-%23030e27.svg?&style=for-the-badge&logo=flutter&logoColor=white">
+                <img alt="Electron Badge" src="https://img.shields.io/badge/electron-%23030e27.svg?&style=for-the-badge&logo=electron&logoColor=white">
+                <img alt="Python Badge" src="https://img.shields.io/badge/python-%23030e27.svg?&style=for-the-badge&logo=python&logoColor=white"> 
+                <img alt="Django Badge" src="https://img.shields.io/badge/django-%23030e27.svg?&style=for-the-badge&logo=django3&logoColor=white">  
+                <img alt="Flask Badge" src="https://img.shields.io/badge/flask-%23030e27.svg?&style=for-the-badge&logo=flask&logoColor=white"> 
+            </div>
         </details>
     </ul>
 </details>
-
 <details> 
     <summary>Tools</summary>
     <ul>
-        <li>
             <details>
                 <summary>Current Learning</summary>
                 <ul>
@@ -56,11 +69,10 @@
                     <li> SEO practices </li>
                 </ul>
             </details>
-        </li>
-        <li>
             <details>
                 <summary>Other Tools </summary>
                 <ul>
+                    <li> Figma </li>
                     <li> VSCode </li>
                     <li> Chrome Dev Tools</li>
                     <li> Axe</li>
@@ -69,47 +81,42 @@
                     <li> Heroku </li>
                 </ul>
             </details>
-        </li>
     </ul>
 </details>
-
 <details>
     <summary>Projects</summary>
     <ul>
-      <li>
+    <details>
+            <summary>Past</summary>
+            <h4>Hibiscus - An Accessible Blog Template </h4>
+            <p>A portfolio website for my debut cookbook Hibiscus. Created using HTML, CSS & React.</p> 
+      </details> 
       <details>
             <summary>Current</summary>
             <h4>Allie - An Accessible Blog Template </h4>
             <p>I'm currently working on creating a food blog template, going back to basics with HTML & CSS and applying accessibility and SEO practices.</p> 
-      </details>
-      </li>
-      <li>
+      </details>  
       <details>
             <summary>Future</summary>  
             <h4>Okele - A Restaurant/Supper Club Website </h4>
             <p>I'll be creating a vanilla JS website while experimenting with Tailwind CSS and SaSS. </p> 
       </details>
-      </li>
     </ul>
 </details>
-
 <details>
     <summary>Blogs</summary>
     <ul>
-        <li> 
         <details>
             <summary>Latest</summary>
             <h4><a href="https://dev.to/lopeariyo/an-introduction-to-web-accessibility-3lo1">An Introduction to Web Accessibility </a></h4>
         </details>
-        </li>
-        <li>
         <details>
             <summary>Popular</summary>
             <h4><a href="https://dev.to/lopeariyo/an-introduction-to-web-accessibility-3lo1">An Introduction to Web Accessibility </a></h4>
         </details>
-        </li>
     </ul>
 </details>
+</ul>
 
 <h2 align="center" >Let's Connect </h2>
 <p align="center"> I love connecting with different people so if you want to talk, here's where you can reach me: </p>
