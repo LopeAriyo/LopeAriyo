@@ -4,19 +4,19 @@
   </a>
     
 </p>
-<p align="center"> She/Her</p>
+<p align="center">She/Her</p>
 
-<h1 align="center">Welcome to my Github </h1>
+<h1 align="center">Hello. Kilonshele. Bonjour. 안녕하세요.</h1>
 
 <p>  I've been coding a little over 9 months now. I graduated from the Flatiron Bootcamp in London and I'm now a fullstack web developer, though I mainly lean towards frontend development! I also have a  Mathematics BSc from Loughborough University. I'm interested in making the web accessible and like learning new technologies. Working on trying to find a balance between perfectionism and pragmatism.</p>
 
-<p> Fun Fact: I'm also a cookbook author and recipe developer. My debut cookbook <a href="https://smarturl.it/hibiscus"> 'Hibiscus'</a> was published in 2017 by Harper Collins</p>
+<p> Fun Fact: I'm also a cookbook author and recipe developer. My debut cookbook <a href="https://smarturl.it/hibiscus"> 'Hibiscus'</a> was published in 2017 by Harper Collins.</p>
 
 <div align="center" >
   <img alt="Lope Ariyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopeAriyo&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" >
 </div>
 
-<h2 style =fontweight="bold">#DevLife💻</h2>
+<h2 style =fontweight="bold" align="center">#DevLife💻</h2>
 
 <details> 
     <summary>Skills</summary>
@@ -71,14 +71,14 @@
       <details>
             <summary>Current</summary>
             <h4>Allie - An Accessible Blog Template </h4>
-            <p>I'm currently working on creating a food blog template, going back to basics with HTML & CSS and applying accessibility and SEO practices</p> 
+            <p>I'm currently working on creating a food blog template, going back to basics with HTML & CSS and applying accessibility and SEO practices.</p> 
       </details>
       </li>
       <li>
       <details>
             <summary> Future</summary>
             <h4>Okele - A Restaurant/Supper Club Website </h4>
-            <p>I'll be creating a vanilla JS website while experimenting with Tailwind CSS and SaSS </p> 
+            <p>I'll be creating a vanilla JS website while experimenting with Tailwind CSS and SaSS. </p> 
       </details>
       </li>
     </ul>
