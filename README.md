@@ -1,26 +1,6 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;800&display=swap" rel="stylesheet">
 
-<style>
-  h1{
-    font-family: "Allerta Stencil", sans-serif;
-  }
-</style>
-
-<style>
-  p{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
-  }
-</style>
-
-<style>
-  h2,h3,h4{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 800;
-  }
-</style>
-
 <p align="center">
   <a href="https://www.lopeariyo.dev/ ">
     <img alt="Lope Logo" src="https://pbs.twimg.com/profile_images/1248697046883762176/A80erP3V_400x400.png" width="250" />
