@@ -8,7 +8,7 @@
 
 <h1 align="center">Hello. Kilonshele. Bonjour. 안녕하세요.</h1>
 
-<p>  I've been coding a little over 9 months now. I graduated from the Flatiron Bootcamp in London and I'm now a fullstack web developer, though I mainly lean towards frontend development! I also have a  Mathematics BSc from Loughborough University. I'm interested in making the web accessible and like learning new technologies. Working on trying to find a balance between perfectionism and pragmatism.</p>
+<p>  I've been coding a little over 9 months now. I graduated from the Flatiron Bootcamp in London and I'm now a fullstack web developer, though I mainly lean towards frontend development! I also have a Mathematics BSc from Loughborough University. I'm interested in making the web accessible and like learning new technologies. Working on trying to find a balance between perfectionism and pragmatism.</p>
 
 <p> Fun Fact: I'm also a cookbook author and recipe developer. My debut cookbook <a href="https://smarturl.it/hibiscus"> 'Hibiscus'</a> was published in 2017 by Harper Collins.</p>
 
@@ -16,7 +16,7 @@
   <img alt="Lope Ariyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopeAriyo&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" >
 </div>
 
-<h2 style =fontweight="bold" align="center">#DevLife💻</h2>
+<h2 align="center">#DevLife💻</h2>
 
 <details> 
     <summary>Skills</summary>
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-    <summary> Projects</summary>
+    <summary>Projects</summary>
     <ul>
       <li>
       <details>
@@ -76,7 +76,7 @@
       </li>
       <li>
       <details>
-            <summary> Future</summary>
+            <summary>Future</summary>  
             <h4>Okele - A Restaurant/Supper Club Website </h4>
             <p>I'll be creating a vanilla JS website while experimenting with Tailwind CSS and SaSS. </p> 
       </details>
@@ -85,17 +85,17 @@
 </details>
 
 <details>
-    <summary> Blogs</summary>
+    <summary>Blogs</summary>
     <ul>
         <li> 
         <details>
-            <summary> Lastest</summary>
+            <summary>Latest</summary>
             <h4><a href="https://dev.to/lopeariyo/an-introduction-to-web-accessibility-3lo1">An Introduction to Web Accessibility </a></h4>
         </details>
         </li>
         <li>
         <details>
-            <summary> Popular</summary>
+            <summary>Popular</summary>
             <h4><a href="https://dev.to/lopeariyo/an-introduction-to-web-accessibility-3lo1">An Introduction to Web Accessibility </a></h4>
         </details>
         </li>
