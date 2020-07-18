@@ -39,9 +39,10 @@
         </details>
         <details>
             <summary>Learning</summary>
-           <div >
-          <p> I'm currently working on better understand the languages I already know.<p>
-           </div>
+                <div align="center" >
+                  <img alt="Redux Badge" src="https://img.shields.io/badge/redux-%23030e27.svg?&style=for-the-badge&logo=redux&logoColor=white">
+                  <img alt="Hooks Badge" src="https://img.shields.io/badge/hooks-%23030e27.svg?&style=for-the-badge&logo=hooks&logoColor=white">
+                </div>
         </details>
         <details>
             <summary>Want To Learn</summary>
@@ -86,10 +87,12 @@
 <details>
     <summary>Projects</summary>
     <ul>
-    <details>
+      <details>
             <summary>Past</summary>
-            <h4>Hibiscus - An Accessible Blog Template </h4>
-            <p>A portfolio website for my debut cookbook Hibiscus. Created using HTML, CSS & React.</p> 
+            <h4>Hibiscus - A Cookbook Portfolio Website </h4>
+            <p>A portfolio website for my debut cookbook Hibiscus. Created using HTML / JSX, CSS & React.</p> 
+            <h4>Yemoja - A Period Tracking App </h4>
+            <p>An app for individuals to track their periods. Created using ScSS,  React, Redux, Hooks, Node.js, Express & MongoDB.</p>       
       </details> 
       <details>
             <summary>Current</summary>
