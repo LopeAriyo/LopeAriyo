@@ -18,16 +18,33 @@
 
 <h2 align="center">#DevLife💻</h2>
 
- <img alt="HTMl Badge" src="https://img.shields.io/badge/html-%23030e27.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
-<img alt="CSS Badge" src="https://img.shields.io/badge/css-%23030e27.svg?&style=for-the-badge&logo=css3&logoColor=white">  
-<img alt="SaSS Badge" src="https://img.shields.io/badge/scss-%23030e27.svg?&style=for-the-badge&logo=sass&logoColor=white"> 
-<img alt="Javascript Badge" src="https://img.shields.io/badge/javascript-%23030e27.svg?&style=for-the-badge&logo=javascript&logoColor=white"> 
-<img alt="React Badge" src="https://img.shields.io/badge/react-%23030e27.svg?&style=for-the-badge&logo=react&logoColor=white"> 
-<img alt="Gatsby Badge" src="https://img.shields.io/badge/gatsby-%23030e27.svg?&style=for-the-badge&logo=gatsby&logoColor=white"> 
-<img alt="Node Badge" src="https://img.shields.io/badge/nodejs-%23030e27.svg?&style=for-the-badge&logo=node.js&logoColor=white"> 
-<img alt="Express Badge" src="https://img.shields.io/badge/express-%23030e27.svg?&style=for-the-badge&logo=express.js&logoColor=white"> 
-<img alt="Mongo Badge" src="https://img.shields.io/badge/mongodb-%23030e27.svg?&style=for-the-badge&logo=mongodb&logoColor=white"> 
-<img alt="Strapi Badge" src="https://img.shields.io/badge/strapi-%23030e27.svg?&style=for-the-badge&logo=strapi&logoColor=white">
+<details>
+    <summary>Languages</summary>
+    <ul>
+        <details>
+            <summary>Know</summary>
+            <div align="center">
+                <img alt="HTMl Badge" src="https://img.shields.io/badge/html-%23030e27.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
+                <img alt="CSS Badge" src="https://img.shields.io/badge/css-%23030e27.svg?&style=for-the-badge&logo=css3&logoColor=white">  
+                <img alt="SaSS Badge" src="https://img.shields.io/badge/scss-%23030e27.svg?&style=for-the-badge&logo=sass&logoColor=white"> 
+                <img alt="Javascript Badge" src="https://img.shields.io/badge/javascript-%23030e27.svg?&style=for-the-badge&logo=javascript&logoColor=white"> 
+                <img alt="React Badge" src="https://img.shields.io/badge/react-%23030e27.svg?&style=for-the-badge&logo=react&logoColor=white"> 
+                <img alt="Gatsby Badge" src="https://img.shields.io/badge/gatsby-%23030e27.svg?&style=for-the-badge&logo=gatsby&logoColor=white"> 
+                <img alt="Node Badge" src="https://img.shields.io/badge/nodejs-%23030e27.svg?&style=for-the-badge&logo=node.js&logoColor=white"> 
+                <img alt="Express Badge" src="https://img.shields.io/badge/express-%23030e27.svg?&style=for-the-badge&logo=express.js&logoColor=white"> 
+                <img alt="Mongo Badge" src="https://img.shields.io/badge/mongodb-%23030e27.svg?&style=for-the-badge&logo=mongodb&logoColor=white"> 
+                <img alt="Strapi Badge" src="https://img.shields.io/badge/strapi-%23030e27.svg?&style=for-the-badge&logo=strapi&logoColor=white">
+            </div>
+        </details>
+        <details>
+            <summary>Learning</summary>
+        </details>
+        <details>
+            <summary>Want To Learn</summary>
+        </details>
+    </ul>
+</details>
+
 <details> 
     <summary>Tools</summary>
     <ul>
