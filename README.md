@@ -20,7 +20,7 @@
 
 <ul >
 <div>
-    <img align="right" alt="Lope Logo" src="./assets/octocat.png" width="250" height="270" />
+    <img align="right" alt="Lope Octocat" src="./assets/octocat.png" width="250" height="270" />
     <h3>Languages</h3>
     <ul>
         <details>
