@@ -18,9 +18,10 @@
 
 <h2 align="center">#DevLife💻</h2>
 
-<ul>
-<details>
-    <summary>Languages</summary>
+<ul >
+<div>
+    <img align="right" alt="Lope Logo" src="./assets/octocat.png" width="250" height="270" />
+    <h3>Languages</h3>
     <ul>
         <details>
             <summary>Know</summary>
@@ -59,9 +60,9 @@
             </div>
         </details>
     </ul>
-</details>
-<details> 
-    <summary>Tools</summary>
+</div>
+<div> 
+    <h3>Tools</h3>
     <ul>
             <details>
                 <summary>Current Learning</summary>
@@ -83,9 +84,9 @@
                 </ul>
             </details>
     </ul>
-</details>
-<details>
-    <summary>Projects</summary>
+</div>
+<div>
+    <h3>Projects</h3>
     <ul>
       <details>
             <summary>Past</summary>
@@ -105,9 +106,9 @@
             <p>I'll be creating a vanilla JS website while experimenting with Tailwind CSS and SaSS. </p> 
       </details>
     </ul>
-</details>
-<details>
-    <summary>Blogs</summary>
+</div>
+<div>
+    <h3>Blogs</h3>
     <ul>
         <details>
             <summary>Latest</summary>
@@ -118,7 +119,7 @@
             <h4><a href="https://dev.to/lopeariyo/an-introduction-to-web-accessibility-3lo1">An Introduction to Web Accessibility </a></h4>
         </details>
     </ul>
-</details>
+</div>
 </ul>
 
 <h2 align="center" >Let's Connect </h2>
