@@ -126,16 +126,15 @@
 </div>
 </ul>
 
-<h2 align="center" >Let's Connect </h2>
-<p align="center"> I love connecting with different people so if you want to talk, here's where you can reach me: </p>
-<div align="center">
-    <a href="https://twitter.com/lopeariyodev">
-        <img alt="Twitter Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/twitter-512.png" width="75" />
+<h3 align="center" >Want to connect ?</h3>
+<p align="center">
+    <a href="https://twitter.com/lopeariyodev" target="blank">
+        <img alt="Twitter Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/twitter-512.png" alt="Lope Ariyo's Twitter" width="45" />
     </a>
-    <a href="https://www.linkedin.com/in/lopeariyo/">
-        <img alt="LinkedIn Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/linkedin-512.png" width="75" />
+    <a href="https://www.linkedin.com/in/lopeariyo/" target="blank">
+        <img alt="LinkedIn Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/linkedin-512.png" alt="Lope Ariyo's LinkedIn" width="45" />
     </a>
-    <a href="https://www.lopeariyo.dev/contact ">
-        <img alt="Email Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/mail-512.png" width="75" />
+    <a href="https://www.lopeariyo.dev/contact" target="blank">
+        <img alt="Email Icon" src="https://cdn4.iconfinder.com/data/icons/a-s-social-set/256/mail-512.png" alt="Lope Ariyo's Contact Form" width="45" />
     </a>
-</div>
+</p>
