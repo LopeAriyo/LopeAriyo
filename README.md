@@ -10,7 +10,7 @@
 <h3 align="center">A full stack developer (though I'm frontend leaning) from London</h3>
 
 - 🔭 I’m currently working on **Portfolio 2.0**
-- 
+
 - 👨‍💻 All of my projects are available at [lopeariyo.dev](lopeariyo.dev)
 
 - ⚡ Fun fact **I'm a cookbook author and recipe developer**. My debut cookbook <a href="https://hibiscus.lopeariyo.com"> 'Hibiscus'</a> was published in 2017 by Harper Collins.</p>
