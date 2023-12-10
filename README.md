@@ -17,78 +17,80 @@
 
 
 <div align="center" >
-  <img alt="Lope Ariyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopeAriyo&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" >
+  <img alt="Lope Ariyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopeAriyo&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" />
 </div>
 
 <h2 align="center">#DevLife💻</h2>
 
-<ul >
+<h3>Languages </h3>
 <div>
-    <img align="right" alt="Lope Octocat" src="./assets/octocat.png" width="250" height="270" />
-    <h3>Languages</h3>
-    <ul>
-        <details>
-            <summary>Know</summary>
-            <div align="center">
-                <img alt="HTMl Badge" src="https://img.shields.io/badge/html-%23030e27.svg?&style=for-the-badge&logo=html5&logoColor=white"> 
-                <img alt="CSS Badge" src="https://img.shields.io/badge/css-%23030e27.svg?&style=for-the-badge&logo=css3&logoColor=white">  
-                <img alt="SaSS Badge" src="https://img.shields.io/badge/scss-%23030e27.svg?&style=for-the-badge&logo=sass&logoColor=white"> 
-                <img alt="Javascript Badge" src="https://img.shields.io/badge/javascript-%23030e27.svg?&style=for-the-badge&logo=javascript&logoColor=white"> 
-                <img alt="React Badge" src="https://img.shields.io/badge/react-%23030e27.svg?&style=for-the-badge&logo=react&logoColor=white"> 
-                <img alt="Gatsby Badge" src="https://img.shields.io/badge/gatsby-%23030e27.svg?&style=for-the-badge&logo=gatsby&logoColor=white"> 
-                <img alt="Node Badge" src="https://img.shields.io/badge/nodejs-%23030e27.svg?&style=for-the-badge&logo=node.js&logoColor=white"> 
-                <img alt="Express Badge" src="https://img.shields.io/badge/express-%23030e27.svg?&style=for-the-badge&logo=express.js&logoColor=white"> 
-                <img alt="Mongo Badge" src="https://img.shields.io/badge/mongodb-%23030e27.svg?&style=for-the-badge&logo=mongodb&logoColor=white"> 
-                <img alt="Strapi Badge" src="https://img.shields.io/badge/strapi-%23030e27.svg?&style=for-the-badge&logo=strapi&logoColor=white">
-            </div>
-        </details>
-        <details>
-            <summary>Learning</summary>
-                <div align="center" >
-                  <img alt="Redux Badge" src="https://img.shields.io/badge/redux-%23030e27.svg?&style=for-the-badge&logo=redux&logoColor=white">
-                  <img alt="Hooks Badge" src="https://img.shields.io/badge/hooks-%23030e27.svg?&style=for-the-badge&logo=hooks&logoColor=white">
-                </div>
-        </details>
-        <details>
-            <summary>Want To Learn</summary>
-             <div align="center">
-                <img alt="Tailwind Badge" src="https://img.shields.io/badge/tailwind-%23030e27.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white">
-                <img alt="Materialize Badge" src="https://img.shields.io/badge/materialize-%23030e27.svg?&style=for-the-badge&logo=materializecss&logoColor=white">
-                <img alt="Bootstrap Badge" src="https://img.shields.io/badge/bootstrap-%23030e27.svg?&style=for-the-badge&logo=bootstrap&logoColor=white">
-                <img alt="React Native Badge" src="https://img.shields.io/badge/reactnative-%23030e27.svg?&style=for-the-badge&logo=reactnative&logoColor=white">
-                <img alt="Flutter Badge" src="https://img.shields.io/badge/flutter-%23030e27.svg?&style=for-the-badge&logo=flutter&logoColor=white">
-                <img alt="Electron Badge" src="https://img.shields.io/badge/electron-%23030e27.svg?&style=for-the-badge&logo=electron&logoColor=white">
-                <img alt="Python Badge" src="https://img.shields.io/badge/python-%23030e27.svg?&style=for-the-badge&logo=python&logoColor=white"> 
-                <img alt="Django Badge" src="https://img.shields.io/badge/django-%23030e27.svg?&style=for-the-badge&logo=django3&logoColor=white">  
-                <img alt="Flask Badge" src="https://img.shields.io/badge/flask-%23030e27.svg?&style=for-the-badge&logo=flask&logoColor=white"> 
-            </div>
-        </details>
-    </ul>
+  <img alt="HTMl Badge" src="https://img.shields.io/badge/html-%23030e27.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
+  <img alt="CSS Badge" src="https://img.shields.io/badge/css-%23030e27.svg?&style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img alt="Javascript Badge" src="https://img.shields.io/badge/javascript-%23030e27.svg?&style=for-the-badge&logo=javascript&logoColor=white"/> 
+  <img alt="Typescript Badge" src="https://img.shields.io/badge/typescript-%23030e27.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> 
 </div>
+<h3>Environments, Libraries & Frameworks</h3>
+<div>
+  <img alt="React Badge" src="https://img.shields.io/badge/react-%23030e27.svg?&style=for-the-badge&logo=react&logoColor=white"/> 
+  <img alt="Gatsby Badge" src="https://img.shields.io/badge/gatsby-%23030e27.svg?&style=for-the-badge&logo=gatsby&logoColor=white"/> 
+  <img alt="Astro Badge" src="https://img.shields.io/badge/astro-%23030e27.svg?&style=for-the-badge&logo=astro&logoColor=white"/> 
+  <img alt="Next Badge" src="https://img.shields.io/badge/next-%23030e27.svg?&style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+  <img alt="Vite Badge" src="https://img.shields.io/badge/vite-%23030e27.svg?&style=for-the-badge&logo=vite&logoColor=white"/> 
+  <img alt="Node Badge" src="https://img.shields.io/badge/nodejs-%23030e27.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+  <img alt="Express Badge" src="https://img.shields.io/badge/express-%23030e27.svg?&style=for-the-badge&logo=express&logoColor=white"/> 
+</div>
+<h3>Styling</h3>
 <div> 
-    <h3>Tools</h3>
-    <ul>
-            <details>
-                <summary>Current Learning</summary>
-                <ul>
-                    <li> A11y practices</li>
-                    <li> SEO practices </li>
-                </ul>
-            </details>
-            <details>
-                <summary>Other Tools </summary>
-                <ul>
-                    <li> Figma </li>
-                    <li> VSCode </li>
-                    <li> Chrome Dev Tools</li>
-                    <li> Axe</li>
-                    <li> Postman</li>
-                    <li> Netlify</li>
-                    <li> Heroku </li>
-                </ul>
-            </details>
-    </ul>
+  <img alt="Tailwind Badge" src="https://img.shields.io/badge/tailwind-%23030e27.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img alt="Daisy UI Badge" src="https://img.shields.io/badge/daisyui-%23030e27.svg?&style=for-the-badge&logo=daisyui&logoColor=white"/> 
+  <img alt="Chakra UI Badge" src="https://img.shields.io/badge/chakraui-%23030e27.svg?&style=for-the-badge&logo=chakraui&logoColor=white"/> 
 </div>
+<h3>SQL, Databases & Content Management</h3>
+<div>
+  <img alt="MySQL Badge" src="https://img.shields.io/badge/mysql-%23030e27.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img alt="Postgres Badge" src="https://img.shields.io/badge/postgres-%23030e27.svg?&style=for-the-badge&logo=postgres&logoColor=white"/> 
+  <img alt="Mongo Badge" src="https://img.shields.io/badge/mongodb-%23030e27.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
+  <img alt="Prisma Badge" src="https://img.shields.io/badge/prisma-%23030e27.svg?&style=for-the-badge&logo=prisma&logoColor=white"/> 
+  <img alt="Strapi Badge" src="https://img.shields.io/badge/strapi-%23030e27.svg?&style=for-the-badge&logo=strapi&logoColor=white"/>
+  <img alt="Contentful Badge" src="https://img.shields.io/badge/contentful-%23030e27.svg?&style=for-the-badge&logo=contentful&logoColor=white"/>
+</div>
+<h3>Testing</h3>
+<div>
+  <img alt="Testing Library Badge" src="https://img.shields.io/badge/testing_library-%23030e27.svg?&style=for-the-badge&logo=testinglibrary&logoColor=white"/> 
+  <img alt="Jest Badge" src="https://img.shields.io/badge/jest-%23030e27.svg?&style=for-the-badge&logo=jest&logoColor=white"/> 
+  <img alt="Cypress Badge" src="https://img.shields.io/badge/cypress-%23030e27.svg?&style=for-the-badge&logo=cypress&logoColor=white"/> 
+  <img alt="Vitest Badge" src="https://img.shields.io/badge/vitest-%23030e27.svg?&style=for-the-badge&logo=vitest&logoColor=white"/> 
+  <img alt="Storybook Badge" src="https://img.shields.io/badge/storybook-%23030e27.svg?&style=for-the-badge&logo=storybook&logoColor=white"/>
+</div>
+<h3>VCS & VCS Hosting</h3>
+<div>
+  <img alt="Git Badge" src="https://img.shields.io/badge/git-%23030e27.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
+  <img alt="Github Badge" src="https://img.shields.io/badge/github-%23030e27.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
+  <img alt="Gitlab Badge" src="https://img.shields.io/badge/gitlab-%23030e27.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/> 
+</div>
+<h3>Cloud Services</h3>
+<div>
+  <img alt="AWS Lambda Badge" src="https://img.shields.io/badge/awslambda-%23030e27.svg?&style=for-the-badge&logo=awslambda&logoColor=white"/> 
+  <img alt="AWS S3 Badge" src="https://img.shields.io/badge/amazons3-%23030e27.svg?&style=for-the-badge&logo=amazons3&logoColor=white"/> 
+  <img alt="AWS Cloudwatch Badge" src="https://img.shields.io/badge/amazoncloudwatch-%23030e27.svg?&style=for-the-badge&logo=amazoncloudwatch&logoColor=white"/> 
+  <img alt="AWS SQS Badge" src="https://img.shields.io/badge/amazonsqs-%23030e27.svg?&style=for-the-badge&logo=amazonsqs&logoColor=white"/> 
+  <img alt="AWS EC2 Badge" src="https://img.shields.io/badge/amazonec2-%23030e27.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/> 
+</div>
+<h3>CI/CD & Deployment</h3>
+<div>
+  <img alt="Netlify Badge" src="https://img.shields.io/badge/netlify-%23030e27.svg?&style=for-the-badge&logo=netlify&logoColor=white"/> 
+  <img alt="Vercel Badge" src="https://img.shields.io/badge/vercel-%23030e27.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> 
+  <img alt="Heroku Badge" src="https://img.shields.io/badge/heroku-%23030e27.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
+</div>
+<h3>Tools</h3>
+<div>
+  <img alt="VSCode Badge" src="https://img.shields.io/badge/vscode-%23030e27.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img alt="Notion Badge" src="https://img.shields.io/badge/notion-%23030e27.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt="Figma Badge" src="https://img.shields.io/badge/figma-%23030e27.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="Linear Badge" src="https://img.shields.io/badge/linear-%23030e27.svg?&style=for-the-badge&logo=linear&logoColor=white"/> 
+  <img alt="Postman Badge" src="https://img.shields.io/badge/postman-%23030e27.svg?&style=for-the-badge&logo=postman&logoColor=white"/> 
+</div>
+<ul>
 <div>
     <h3>Projects</h3>
     <ul>
