@@ -6,11 +6,15 @@
 </p>
 <p align="center">She/Her</p>
 
-<h1 align="center">Hello. Kilonshele. Bonjour. 안녕하세요.</h1>
+<h1 align="center">Hello. Kilonshele. Bonjour. 안녕하세요. 👋🏾 </h1>
+<h3 align="center">A full stack developer (though I'm frontend leaning) from London</h3>
 
-<p>  I've been coding a little over 9 months now. I graduated from the Flatiron Bootcamp in London and I'm now a fullstack web developer, though I mainly lean towards frontend development! I also have a Mathematics BSc from Loughborough University. I'm interested in making the web accessible and like learning new technologies. Trying to find the sweet spot between perfectionism and pragmatism.</p>
+- 🔭 I’m currently working on **Portfolio 2.0**
+- 
+- 👨‍💻 All of my projects are available at [lopeariyo.dev](lopeariyo.dev)
 
-<p> Fun Fact: I'm also a cookbook author and recipe developer. My debut cookbook <a href="https://smarturl.it/hibiscus"> 'Hibiscus'</a> was published in 2017 by Harper Collins.</p>
+- ⚡ Fun fact **I'm a cookbook author and recipe developer**. My debut cookbook <a href="https://hibiscus.lopeariyo.com"> 'Hibiscus'</a> was published in 2017 by Harper Collins.</p>
+
 
 <div align="center" >
   <img alt="Lope Ariyo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=LopeAriyo&show_icons=true&title_color=030e27&icon_color=1EA598&text_color=030e27&bg_color=E2F5F4" >
