@@ -22,8 +22,10 @@
 
 <h2 align="center">#DevLife💻</h2>
 
-<h3>My Tech Stack </h3>
-<details> 
+<details>
+  <summary><h3>My Tech Stack </h3></summary>
+
+  <details> 
   <summary> <h4>Languages </h4></summary>
   <div>
     <img alt="HTMl Badge" src="https://img.shields.io/badge/html-%23030e27.svg?&style=for-the-badge&logo=html5&logoColor=white" /> 
@@ -108,7 +110,10 @@
     <img alt="Linear Badge" src="https://img.shields.io/badge/linear-%23030e27.svg?&style=for-the-badge&logo=linear&logoColor=white"/> 
     <img alt="Postman Badge" src="https://img.shields.io/badge/postman-%23030e27.svg?&style=for-the-badge&logo=postman&logoColor=white"/> 
   </div>
-</details> 
+</details>   
+</details>
+
+
 
 <ul>
 <div>
