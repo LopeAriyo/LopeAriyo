@@ -53,10 +53,10 @@
   </div>
 </details> 
 <details>
-  <summary> <h4>SQL, Databases & Content Management</h4></summary>
+  <summary> <h4>Databases & Content Management</h4></summary>
   <div>
     <img alt="MySQL Badge" src="https://img.shields.io/badge/mysql-%23030e27.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
-    <img alt="Postgres Badge" src="https://img.shields.io/badge/postgres-%23030e27.svg?&style=for-the-badge&logo=postgres&logoColor=white"/> 
+    <img alt="PostgreSQL Badge" src="https://img.shields.io/badge/postgresql-%23030e27.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
     <img alt="Mongo Badge" src="https://img.shields.io/badge/mongodb-%23030e27.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> 
     <img alt="Prisma Badge" src="https://img.shields.io/badge/prisma-%23030e27.svg?&style=for-the-badge&logo=prisma&logoColor=white"/> 
     <img alt="Strapi Badge" src="https://img.shields.io/badge/strapi-%23030e27.svg?&style=for-the-badge&logo=strapi&logoColor=white"/>
